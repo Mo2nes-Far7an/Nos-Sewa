@@ -1,0 +1,6 @@
+{
+  "name": "نُص سوا",
+  "description": "تطبيق كتاب نُص سوا للرفاق الستة - تصفح وقراءة وبحث في القصص والنصوص مع إحصائيات تفاعلية للكُتّاب",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
